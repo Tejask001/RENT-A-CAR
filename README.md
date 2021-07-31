@@ -1,5 +1,5 @@
 # RENT-A-CAR
-Car Rental System
+
 Admin has options to :
 1. Add new car to inventory
 2. Delete car from inventory
