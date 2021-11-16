@@ -1,6 +1,6 @@
 # RENT-A-CAR
 The Project is intended to provide a fast and efficient way for Administrators to edit their Car Inventory and the Customer to rent a car without having to go through the hassle of renting a car by going to the Car Shop itself. This is a simple program that allows both the Administrator of a Car-Rental and
-the Customer to use the same interface for meeting their requirements.
+the Customer to use the same interface for meeting their requirements. (It performs CRUD operations using file system in C++)
 
 Admin has options to :
 1. Add new car to inventory
